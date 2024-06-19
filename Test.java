@@ -10,7 +10,7 @@ WebDriver test;
 public void start() throws InterruptedException {
 		
 		
-System.getProperty("webdriver","C:\\Users\\91852\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
+System.getProperty("webdriver","C:chromedriver-win64.exe");
 		
 test = new ChromeDriver();
 		
